@@ -243,7 +243,7 @@ plt.show()
 3. **Project Setup**
    ```bash
    # Clone repository
-   git clone https://github.com/yourusername/network-systems-project.git
+   git clone https://github.com/horizonhnk/network-systems-project.git
    cd network-systems-project
    
    # Run NetworkX analysis
